@@ -445,6 +445,28 @@ We also review sentence structures:
 - This is my nose. 
 - I have two eyes .
 
+
+
+20201012
+Dear parents, this week our new topic is "our bodies".
+We introduced two new words to the children:
+- happy
+- sad
+We played "hammer game" to incourage the children to say the new vocabulary.
+
+
+
+
+20201013
+Dear Parents, today we reviewed all of our new content from this week:
+- happy
+- sad
+We also learn new sentence structure:
+- I am happy .
+
+
+
+
 """
 
 
