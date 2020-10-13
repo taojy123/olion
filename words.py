@@ -488,9 +488,13 @@ for p in paragraphs:
     new_sentences = '<br>'.join(new_sentences)
     rs.append({'day': day, 'words': words, 'sentences': sentences, 'paragraph': p, 'new_words': new_words, 'new_sentences': new_sentences})
 
+rs = rs[::-1]
 pprint.pprint(rs)
 
 page = step.Template(html).expand({'rs': rs})
 
 open('olion.html', 'wb').write(page.encode('utf8'))
+
+print('ok')
+
 
