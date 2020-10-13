@@ -108,16 +108,15 @@ Dear parents, today we reviewed all of our new vocabulary:
 - frog
 - dog 
 - cat
-We played games to review these words:
-~- slap card
-~- basketball
-We also reviewed our four new colours:
 - blue
 - yellow
 - red
 - green 
 We read the story book of the week "the gingerbread man".
-
+We played games to review these words:
+~- slap card
+~- basketball
+We also reviewed our four new colours:
 
 
 20200821
@@ -135,7 +134,7 @@ We played flashcard reveal to review our new sentences:
 
 20200824
 Dear parents, this week we have a new story book:
-- the hungry caterpillar
+~- the hungry caterpillar
 We introduced new vocabulary to the children:
 - apple 
 - pear
