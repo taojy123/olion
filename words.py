@@ -466,7 +466,32 @@ We also learn new sentence structure:
 
 
 
+20201014
+Dear parents, today we introduced two new words to the children:
+- angry
+- cry
+We played "hammer game" to incourage the children to say the new vocabulary.
 
+
+
+20201015
+Dear Parents, today we reviewed all of our new content from this week:
+- angry
+- cry
+We also review new sentence structure:
+- I am angry.
+
+
+
+
+20201016
+Dear Parents, today we reviewed all of our new content from this week:
+- happy
+- sad
+- cry
+- angry
+We also review sentence structures:
+- I am happy. 
 """
 
 
