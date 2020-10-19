@@ -492,6 +492,16 @@ Dear Parents, today we reviewed all of our new content from this week:
 - angry
 We also review sentence structures:
 - I am happy. 
+
+
+20201019
+Dear parents, this week our new topic is "our bodies".
+We introduced two new words to the children:
+- hand
+- arm
+We played "hammer game" to incourage the children to say the new vocabulary.
+
+
 """
 
 
